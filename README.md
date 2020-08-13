@@ -2,4 +2,4 @@
 an email bomber script written in python
 
 ```
-[USAGE] python3 EmailBomber.py [OPTIONS]
+[USAGE] python3 EmailSpammer.py [OPTIONS]
